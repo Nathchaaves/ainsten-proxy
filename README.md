@@ -1,2 +1,1 @@
-# ainsten-proxy
-Este repositório contém o código para o proxy Flask que conecta o app Ainsten, uma IA personalizada, ao seu backend, permitindo interações com o usuário através de mensagens e APIs.
+Este repositório contém o código para o proxy Flask que conecta o aplicativo Ainsten, uma IA personalizada, ao seu back-end, permitindo interações com o usuário através de mensagens e APIs.
